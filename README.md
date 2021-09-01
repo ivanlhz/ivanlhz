@@ -19,7 +19,7 @@ const ivanlhz = {
           css: ['SCSS', 'LESS'],
           testing: ['Testing Library', 'Enzyme', 'Cypress'],
           stateManagement: ['React Context API','Redux'],
-          mist: ['Webpack', 'NextJS', 'GatsbyJS', 'Storybook', 'Style Components', 'Emotion', 'ChakraUI']
+          misc: ['Webpack', 'NextJS', 'GatsbyJS', 'Storybook', 'Style Components', 'Emotion', 'ChakraUI']
         },
         backEnd: {
             js: ['Node', 'Express'],
