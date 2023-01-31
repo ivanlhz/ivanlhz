@@ -22,7 +22,9 @@ const ivanlhz = {
           misc: ['Webpack', 'NextJS', 'GatsbyJS', 'Storybook', 'Style Components', 'Emotion', 'ChakraUI']
         },
         backEnd: {
+            frameworls: [ 'NestJS'],
             js: ['Node', 'Express'],
+            misc: ['GraphQL', 'RabbitMQ']
         },
         mobileApp: {
             native: ['Android Development'],
