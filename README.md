@@ -16,7 +16,7 @@ const ivanlhz = {
     technologies: {
         frontEnd: {
           frameworks: ['Angular+2', 'NextJS'],
-          libraries : ['ReactJS', 'Vue', 'AngularJS',]
+          libraries : ['ReactJS', 'Vue', 'AngularJS'],
           css: ['SCSS', 'LESS'],
           testing: ['Jest','Testing Library', 'Enzyme', 'Cypress'],
           stateManagement: ['React Context API','Redux'],
