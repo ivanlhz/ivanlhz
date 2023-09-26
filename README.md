@@ -15,11 +15,12 @@ const ivanlhz = {
     askMeAbout: ['web dev', 'tech', 'app dev', 'photography'. 'fantasy books', 'TV shows'],
     technologies: {
         frontEnd: {
-          frameworks: ['ReactJS', 'Vue', 'AngularJS', 'Angular+2'],
+          frameworks: ['Angular+2', 'NextJS'],
+          libraries : ['ReactJS', 'Vue', 'AngularJS',]
           css: ['SCSS', 'LESS'],
-          testing: ['Testing Library', 'Enzyme', 'Cypress'],
+          testing: ['Jest','Testing Library', 'Enzyme', 'Cypress'],
           stateManagement: ['React Context API','Redux'],
-          misc: ['Webpack', 'NextJS', 'GatsbyJS', 'Storybook', 'Style Components', 'Emotion', 'ChakraUI']
+          misc: ['Webpack', 'GatsbyJS', 'Storybook', 'Styled Components', 'Emotion', 'ChakraUI']
         },
         backEnd: {
             frameworls: [ 'NestJS'],
@@ -33,7 +34,7 @@ const ivanlhz = {
         databases: ['mongo', 'MySql', 'sqlite'],
         misc: ['Firebase', 'Socket.IO', 'Contentfull', 'Strapi']
     },
-    currentLearning: 'Vue3',
+    currentLearning: 'bun',
 };
 ```
 
